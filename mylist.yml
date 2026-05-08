@@ -20,3 +20,8 @@ payload:
   - DOMAIN-SUFFIX,anydesk.com
   - DOMAIN-KEYWORD,perplexity
   - DOMAIN-SUFFIX,perplexity.ai
+  - DOMAIN-KEYWORD,sellerportal.kaufland
+  - DOMAIN-SUFFIX,sellerportal.kaufland.de
+  - DOMAIN-KEYWORD,ebay
+  - DOMAIN-SUFFIX,ebay.de
+  - DOMAIN-SUFFIX,ebay.com
