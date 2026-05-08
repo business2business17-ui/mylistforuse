@@ -4,8 +4,15 @@ payload:
   - DOMAIN-SUFFIX,amazon.es
   - DOMAIN-SUFFIX,amazon.fr
   - DOMAIN-SUFFIX,amazon.it
+  - DOMAIN-SUFFIX,amazon.ae
+  - DOMAIN-SUFFIX,amazon.pl
+  - DOMAIN-SUFFIX,amazon.se
+  - DOMAIN-SUFFIX,amazon.nl
+  - DOMAIN-SUFFIX,amazon.be
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-KEYWORD,claude
   - DOMAIN-KEYWORD,anthropic
   - DOMAIN-SUFFIX,icloud.com
+  - DOMAIN-KEYWORD,gemini
+  - DOMAIN-SUFFIX,gemini.google.com
