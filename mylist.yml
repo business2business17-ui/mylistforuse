@@ -25,3 +25,5 @@ payload:
   - DOMAIN-KEYWORD,ebay
   - DOMAIN-SUFFIX,ebay.de
   - DOMAIN-SUFFIX,ebay.com
+  - DOMAIN-SUFFIX,helium10
+  - DOMAIN-SUFFIX,members.helium10.com
