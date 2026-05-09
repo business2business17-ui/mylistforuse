@@ -10,13 +10,11 @@ payload:
   - DOMAIN-SUFFIX,amazon.nl
   - DOMAIN-SUFFIX,amazon.be
   - DOMAIN-SUFFIX,amazon.co.uk
-  - DOMAIN-SUFFIX,claude.ai
-  - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-KEYWORD,claude
+  - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-KEYWORD,anthropic
+  - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,icloud.com
-  - DOMAIN-KEYWORD,gemini
-  - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-KEYWORD,anydesk
   - DOMAIN-SUFFIX,anydesk.com
   - DOMAIN-KEYWORD,perplexity
