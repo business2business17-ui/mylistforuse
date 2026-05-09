@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,amazon.se
   - DOMAIN-SUFFIX,amazon.nl
   - DOMAIN-SUFFIX,amazon.be
+  - DOMAIN-SUFFIX,amazon.co.uk
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-KEYWORD,claude
@@ -25,5 +26,21 @@ payload:
   - DOMAIN-KEYWORD,ebay
   - DOMAIN-SUFFIX,ebay.de
   - DOMAIN-SUFFIX,ebay.com
+  - DOMAIN-SUFFIX,ebay.it
+  - DOMAIN-SUFFIX,ebay.pl
+  - DOMAIN-SUFFIX,ebay.se
+  - DOMAIN-SUFFIX,ebay.es
+  - DOMAIN-SUFFIX,ebay.fr
+  - DOMAIN-SUFFIX,ebay.nl
+  - DOMAIN-SUFFIX,ebay.be
+  - DOMAIN-SUFFIX,ebay.uk
   - DOMAIN-SUFFIX,helium10
   - DOMAIN-SUFFIX,members.helium10.com
+  - DOMAIN-KEYWORD,yahoo
+  - DOMAIN-SUFFIX,yahoo.com
+  - DOMAIN-KEYWORD,faire
+  - DOMAIN-SUFFIX,faire.com
+  - DOMAIN-KEYWORD,orderchamp
+  - DOMAIN-SUFFIX,orderchamp.com
+  - DOMAIN-KEYWORD,kauffritz
+  - DOMAIN-SUFFIX,kauffritz.de
