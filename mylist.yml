@@ -42,3 +42,5 @@ payload:
   - DOMAIN-SUFFIX,kauffritz.de
   - DOMAIN-KEYWORD,baselinker
   - DOMAIN-SUFFIX,login.baselinker.com
+  - DOMAIN-KEYWORD,helium10
+  - DOMAIN-SUFFIX,login.members.helium10.com
