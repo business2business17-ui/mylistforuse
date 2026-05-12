@@ -32,8 +32,6 @@ payload:
   - DOMAIN-SUFFIX,ebay.nl
   - DOMAIN-SUFFIX,ebay.be
   - DOMAIN-SUFFIX,ebay.uk
-  - DOMAIN-SUFFIX,helium10
-  - DOMAIN-SUFFIX,members.helium10.com
   - DOMAIN-KEYWORD,yahoo
   - DOMAIN-SUFFIX,yahoo.com
   - DOMAIN-KEYWORD,faire
