@@ -44,3 +44,5 @@ payload:
   - DOMAIN-SUFFIX,login.baselinker.com
   - DOMAIN-KEYWORD,helium10
   - DOMAIN-SUFFIX,login.members.helium10.com
+  - DOMAIN-KEYWORD,moda.app
+  - DOMAIN-SUFFIX,moda.app
