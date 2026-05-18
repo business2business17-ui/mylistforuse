@@ -48,3 +48,5 @@ payload:
   - DOMAIN-SUFFIX,moda.app
   - DOMAIN-KEYWORD,lists.live
   - DOMAIN-SUFFIX,lists.live.com
+  - DOMAIN-KEYWORD,4stand
+  - DOMAIN-SUFFIX,4stand.com
