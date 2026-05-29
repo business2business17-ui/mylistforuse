@@ -54,3 +54,5 @@ payload:
   - DOMAIN-SUFFIX,www.apple.com/app-store
   - DOMAIN-KEYWORD,keepa
   - DOMAIN-SUFFIX,keepa.com/
+  - DOMAIN-KEYWORD,ups
+  - DOMAIN-SUFFIX,www.ups.com
