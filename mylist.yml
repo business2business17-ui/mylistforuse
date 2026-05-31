@@ -56,3 +56,5 @@ payload:
   - DOMAIN-SUFFIX,keepa.com/
   - DOMAIN-KEYWORD,ups
   - DOMAIN-SUFFIX,www.ups.com
+  - DOMAIN-KEYWORD,control.rifty
+  - DOMAIN-SUFFIX,control.rifty.org
