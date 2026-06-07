@@ -58,3 +58,5 @@ payload:
   - DOMAIN-SUFFIX,www.ups.com
   - DOMAIN-KEYWORD,control.rifty
   - DOMAIN-SUFFIX,control.rifty.org
+  - DOMAIN-KEYWORD,my.zadarma
+  - DOMAIN-SUFFIX,my.zadarma.com
