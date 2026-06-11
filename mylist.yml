@@ -61,4 +61,6 @@ payload:
   - DOMAIN-KEYWORD,my.zadarma
   - DOMAIN-SUFFIX,my.zadarma.com
   - DOMAIN-KEYWORD,de.ankorstore
+  - DOMAIN-SUFFIX,mirakl
+  - DOMAIN-KEYWORD,mirakl.com
   - DOMAIN-SUFFIX,de.ankorstore.com
