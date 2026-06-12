@@ -65,4 +65,6 @@ payload:
   - DOMAIN-KEYWORD,mirakl.com
   - DOMAIN-SUFFIX,members.helium10
   - DOMAIN-KEYWORD,members.helium10.com
+  - DOMAIN-SUFFIX,cloudflare
+  - DOMAIN-KEYWORD,cloudflare.com
   - DOMAIN-SUFFIX,de.ankorstore.com
