@@ -69,4 +69,6 @@ payload:
   - DOMAIN-KEYWORD,cloudflare.com
   - DOMAIN-SUFFIX,de.ankorstore.com
   - DOMAIN-KEYWORD,app.clickup
+  - DOMAIN-SUFFIX,app.sendcloud
+  - DOMAIN-KEYWORD,app.sendcloud.com
   - DOMAIN-SUFFIX,app.clickup.com
