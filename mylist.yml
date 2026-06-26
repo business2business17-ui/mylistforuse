@@ -74,3 +74,5 @@ payload:
   - DOMAIN-SUFFIX,trinity.tg/
   - DOMAIN-KEYWORD,trinity.tg/
   - DOMAIN-SUFFIX,app.clickup.com
+  - DOMAIN-KEYWORD,dpd
+  - DOMAIN-SUFFIX,dpd.com
