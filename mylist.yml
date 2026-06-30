@@ -10,10 +10,14 @@ payload:
   - DOMAIN-SUFFIX,amazon.nl
   - DOMAIN-SUFFIX,amazon.be
   - DOMAIN-SUFFIX,amazon.co.uk
+  - DOMAIN-SUFFIX,images-na.ssl-images-amazon.com
+  - DOMAIN-SUFFIX,m.media-amazon.com
+  - DOMAIN-SUFFIX,opfcaptcha-prod.s3.amazonaws.com
   - DOMAIN-KEYWORD,claude
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-KEYWORD,anthropic
   - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-KEYWORD,icloud
   - DOMAIN-SUFFIX,icloud.com
   - DOMAIN-KEYWORD,anydesk
   - DOMAIN-SUFFIX,anydesk.com
@@ -44,6 +48,7 @@ payload:
   - DOMAIN-SUFFIX,login.baselinker.com
   - DOMAIN-KEYWORD,helium10
   - DOMAIN-SUFFIX,login.members.helium10.com
+  - DOMAIN-SUFFIX,helium10.com
   - DOMAIN-KEYWORD,moda.app
   - DOMAIN-SUFFIX,moda.app
   - DOMAIN-KEYWORD,lists.live
@@ -53,7 +58,7 @@ payload:
   - DOMAIN-KEYWORD,apple.com/app-store
   - DOMAIN-SUFFIX,www.apple.com/app-store
   - DOMAIN-KEYWORD,keepa
-  - DOMAIN-SUFFIX,keepa.com/
+  - DOMAIN-SUFFIX,keepa.com
   - DOMAIN-KEYWORD,ups
   - DOMAIN-SUFFIX,www.ups.com
   - DOMAIN-KEYWORD,control.rifty
@@ -61,21 +66,17 @@ payload:
   - DOMAIN-KEYWORD,my.zadarma
   - DOMAIN-SUFFIX,my.zadarma.com
   - DOMAIN-KEYWORD,de.ankorstore
-  - DOMAIN-SUFFIX,mirakl
-  - DOMAIN-KEYWORD,mirakl.com
-  - DOMAIN-SUFFIX,members.helium10
-  - DOMAIN-KEYWORD,members.helium10.com
-  - DOMAIN-SUFFIX,cloudflare
-  - DOMAIN-KEYWORD,cloudflare.com
+  - DOMAIN-SUFFIX,www.ankorstore.com
   - DOMAIN-SUFFIX,de.ankorstore.com
+  - DOMAIN-KEYWORD,mirakl
+  - DOMAIN-SUFFIX,mirakl.com
+  - DOMAIN-KEYWORD,cloudflare
+  - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-KEYWORD,app.clickup
-  - DOMAIN-SUFFIX,app.sendcloud
-  - DOMAIN-KEYWORD,app.sendcloud.com
+  - DOMAIN-SUFFIX,app.clickup.com/
+  - DOMAIN-KEYWORD,app.sendcloud
+  - DOMAIN-SUFFIX,app.sendcloud.com
+  - DOMAIN-KEYWORD,trinity
   - DOMAIN-SUFFIX,trinity.tg
-  - DOMAIN-KEYWORD,trinity.tg/
-  - DOMAIN-SUFFIX,app.clickup.com
   - DOMAIN-KEYWORD,dpd
   - DOMAIN-SUFFIX,dpd.com
-  - DOMAIN-SUFFIX,helium10
-  - DOMAIN-KEYWORD,helium10.com
-  
