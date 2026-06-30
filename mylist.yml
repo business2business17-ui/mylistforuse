@@ -71,8 +71,11 @@ payload:
   - DOMAIN-KEYWORD,app.clickup
   - DOMAIN-SUFFIX,app.sendcloud
   - DOMAIN-KEYWORD,app.sendcloud.com
-  - DOMAIN-SUFFIX,trinity.tg/
+  - DOMAIN-SUFFIX,trinity.tg
   - DOMAIN-KEYWORD,trinity.tg/
   - DOMAIN-SUFFIX,app.clickup.com
   - DOMAIN-KEYWORD,dpd
   - DOMAIN-SUFFIX,dpd.com
+  - DOMAIN-SUFFIX,helium10
+  - DOMAIN-KEYWORD,helium10.com
+  
