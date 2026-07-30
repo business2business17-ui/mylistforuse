@@ -49,6 +49,13 @@ payload:
   - DOMAIN-KEYWORD,helium10
   - DOMAIN-SUFFIX,login.members.helium10.com
   - DOMAIN-SUFFIX,helium10.com
+  - DOMAIN-SUFFIX,kb.helium10.com
+  - DOMAIN-SUFFIX,hub.helium10.com
+  - DOMAIN-SUFFIX,api.helium10.com
+  - DOMAIN-SUFFIX,auth.helium10.com
+  - DOMAIN-SUFFIX,mcp.helium10.com
+  - DOMAIN-SUFFIX,h10.me
+  - DOMAIN-SUFFIX,portals.helium10.com
   - DOMAIN-KEYWORD,moda.app
   - DOMAIN-SUFFIX,moda.app
   - DOMAIN-KEYWORD,lists.live
