@@ -48,6 +48,7 @@ payload:
   - DOMAIN-SUFFIX,login.baselinker.com
   - DOMAIN-KEYWORD,helium10
   - DOMAIN-SUFFIX,login.members.helium10.com
+  - DOMAIN-SUFFIX,members.helium10.com/dashboard
   - DOMAIN-SUFFIX,helium10.com
   - DOMAIN-SUFFIX,kb.helium10.com
   - DOMAIN-SUFFIX,hub.helium10.com
