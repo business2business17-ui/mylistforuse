@@ -87,4 +87,7 @@ payload:
   - DOMAIN-KEYWORD,trinity
   - DOMAIN-SUFFIX,trinity.tg
   - DOMAIN-KEYWORD,dpd
+  - DOMAIN-KEYWORD,dpd
   - DOMAIN-SUFFIX,dpd.com
+  - DOMAIN-KEYWORD,zoho
+  - DOMAIN-SUFFIX,mail.zoho.com
