@@ -52,6 +52,13 @@ payload:
   - DOMAIN-SUFFIX,re-cdn.helium10.com
   - DOMAIN-SUFFIX,login.members.helium10.com
   - DOMAIN-SUFFIX,members.helium10.com/dashboard
+  - DOMAIN-SUFFIX,members.helium10.com
+  - DOMAIN-SUFFIX,api.helium10.com
+  - DOMAIN-SUFFIX,auth.helium10.com
+  - DOMAIN-SUFFIX,extension.helium10.com
+  - DOMAIN-SUFFIX,academy.helium10.com
+  - DOMAIN-SUFFIX,h10.me
+  - DOMAIN-SUFFIX,*.helium10.com
   - DOMAIN-SUFFIX,helium10.com
   - DOMAIN-SUFFIX,kb.helium10.com
   - DOMAIN-SUFFIX,hub.helium10.com
