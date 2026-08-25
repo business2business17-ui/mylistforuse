@@ -119,3 +119,6 @@ payload:
   - DOMAIN-SUFFIX,dhl.de
   - DOMAIN-SUFFIX,dhl.co.uk
   - DOMAIN-SUFFIX,dhl.es
+  - DOMAIN-KEYWORD,sendcloud
+  - DOMAIN-SUFFIX,account.sendcloud.com
+  - DOMAIN-SUFFIX,www.sendcloud.com
