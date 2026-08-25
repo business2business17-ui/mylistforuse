@@ -123,3 +123,8 @@ payload:
   - DOMAIN-SUFFIX,sip.zadarma.com
   - DOMAIN-SUFFIX,pbx.zadarma.com
   - DOMAIN-SUFFIX,cabinet.zadarma.com
+  - DOMAIN-SUFFIX,cdn.amplitude.com,Helium10
+  - DOMAIN-SUFFIX,appboycdn.com,Helium10
+  - DOMAIN-SUFFIX,wistia.com,Helium10
+  - DOMAIN-SUFFIX,cloudfront.net,Helium10
+  - DOMAIN-SUFFIX,rum-ingress-coralogix.com,Helium10
