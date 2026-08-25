@@ -103,3 +103,19 @@ payload:
   - DOMAIN-SUFFIX,dpd.com
   - DOMAIN-KEYWORD,zoho
   - DOMAIN-SUFFIX,mail.zoho.com
+  - DOMAIN-KEYWORD,dhl
+  - DOMAIN-SUFFIX,dhl.com
+  - DOMAIN-SUFFIX,group.dhl.com
+  - DOMAIN-SUFFIX,dpdhl.com
+  - DOMAIN-SUFFIX,deutschepost.de
+  - DOMAIN-SUFFIX,nic.dhl
+  - DOMAIN-SUFFIX,express.dhl
+  - DOMAIN-SUFFIX,mydhli.dhl
+  - DOMAIN-SUFFIX,mydhl.express.dhl
+  - DOMAIN-SUFFIX,mydhl.plus.dhl
+  - DOMAIN-SUFFIX,developer.dhl
+  - DOMAIN-SUFFIX,dhlparcel.nl
+  - DOMAIN-SUFFIX,dhlparcel.de
+  - DOMAIN-SUFFIX,dhl.de
+  - DOMAIN-SUFFIX,dhl.co.uk
+  - DOMAIN-SUFFIX,dhl.es
