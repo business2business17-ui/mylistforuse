@@ -116,3 +116,10 @@ payload:
   - DOMAIN-KEYWORD,sendcloud
   - DOMAIN-SUFFIX,account.sendcloud.com
   - DOMAIN-SUFFIX,sendcloud.com
+  - DOMAIN-KEYWORD,zadarma
+  - DOMAIN-SUFFIX,zadarma.com
+  - DOMAIN-SUFFIX,my.zadarma.com
+  - DOMAIN-SUFFIX,api.zadarma.com
+  - DOMAIN-SUFFIX,sip.zadarma.com
+  - DOMAIN-SUFFIX,pbx.zadarma.com
+  - DOMAIN-SUFFIX,cabinet.zadarma.com
