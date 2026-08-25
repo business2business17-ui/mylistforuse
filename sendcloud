@@ -53,21 +53,16 @@ payload:
   - DOMAIN-SUFFIX,login.members.helium10.com
   - DOMAIN-SUFFIX,static.helium10.com
   - DOMAIN-SUFFIX,app.helium10.com
-  - DOMAIN-SUFFIX,members.helium10.com/dashboard
   - DOMAIN-SUFFIX,members.helium10.com
   - DOMAIN-SUFFIX,api.helium10.com
   - DOMAIN-SUFFIX,auth.helium10.com
   - DOMAIN-SUFFIX,extension.helium10.com
   - DOMAIN-SUFFIX,academy.helium10.com
   - DOMAIN-SUFFIX,h10.me
-  - DOMAIN-SUFFIX,*.helium10.com
   - DOMAIN-SUFFIX,helium10.com
   - DOMAIN-SUFFIX,kb.helium10.com
   - DOMAIN-SUFFIX,hub.helium10.com
-  - DOMAIN-SUFFIX,api.helium10.com
-  - DOMAIN-SUFFIX,auth.helium10.com
   - DOMAIN-SUFFIX,mcp.helium10.com
-  - DOMAIN-SUFFIX,h10.me
   - DOMAIN-SUFFIX,portals.helium10.com
   - DOMAIN-KEYWORD,moda.app
   - DOMAIN-SUFFIX,moda.app
@@ -76,29 +71,28 @@ payload:
   - DOMAIN-KEYWORD,4stand
   - DOMAIN-SUFFIX,4stand.com
   - DOMAIN-KEYWORD,apple.com/app-store
-  - DOMAIN-SUFFIX,www.apple.com/app-store
+  - DOMAIN-SUFFIX,apple.com
   - DOMAIN-KEYWORD,keepa
   - DOMAIN-SUFFIX,keepa.com
   - DOMAIN-KEYWORD,ups
-  - DOMAIN-SUFFIX,www.ups.com
+  - DOMAIN-SUFFIX,ups.com
   - DOMAIN-KEYWORD,control.rifty
   - DOMAIN-SUFFIX,control.rifty.org
   - DOMAIN-KEYWORD,my.zadarma
   - DOMAIN-SUFFIX,my.zadarma.com
   - DOMAIN-KEYWORD,de.ankorstore
-  - DOMAIN-SUFFIX,www.ankorstore.com
+  - DOMAIN-SUFFIX,ankorstore.com
   - DOMAIN-SUFFIX,de.ankorstore.com
   - DOMAIN-KEYWORD,mirakl
   - DOMAIN-SUFFIX,mirakl.com
   - DOMAIN-KEYWORD,cloudflare
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-KEYWORD,app.clickup
-  - DOMAIN-SUFFIX,app.clickup.com/
+  - DOMAIN-SUFFIX,app.clickup.com
   - DOMAIN-KEYWORD,app.sendcloud
   - DOMAIN-SUFFIX,app.sendcloud.com
   - DOMAIN-KEYWORD,trinity
   - DOMAIN-SUFFIX,trinity.tg
-  - DOMAIN-KEYWORD,dpd
   - DOMAIN-KEYWORD,dpd
   - DOMAIN-SUFFIX,dpd.com
   - DOMAIN-KEYWORD,zoho
@@ -121,4 +115,4 @@ payload:
   - DOMAIN-SUFFIX,dhl.es
   - DOMAIN-KEYWORD,sendcloud
   - DOMAIN-SUFFIX,account.sendcloud.com
-  - DOMAIN-SUFFIX,www.sendcloud.com
+  - DOMAIN-SUFFIX,sendcloud.com
