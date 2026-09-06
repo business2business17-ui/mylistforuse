@@ -1,3 +1,4 @@
+payload:
   - DOMAIN-KEYWORD,sellercentral
   - DOMAIN-SUFFIX,amazon.de
   - DOMAIN-SUFFIX,amazon.es
@@ -69,7 +70,6 @@
   - DOMAIN-SUFFIX,lists.live.com
   - DOMAIN-KEYWORD,4stand
   - DOMAIN-SUFFIX,4stand.com
-  - DOMAIN-KEYWORD,apple.com/app-store
   - DOMAIN-SUFFIX,apple.com
   - DOMAIN-KEYWORD,keepa
   - DOMAIN-SUFFIX,keepa.com
