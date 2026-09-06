@@ -1,4 +1,3 @@
-payload:
   - DOMAIN-KEYWORD,sellercentral
   - DOMAIN-SUFFIX,amazon.de
   - DOMAIN-SUFFIX,amazon.es
@@ -123,8 +122,20 @@ payload:
   - DOMAIN-SUFFIX,sip.zadarma.com
   - DOMAIN-SUFFIX,pbx.zadarma.com
   - DOMAIN-SUFFIX,cabinet.zadarma.com
-  - DOMAIN-SUFFIX,cdn.amplitude.com,Helium10
-  - DOMAIN-SUFFIX,appboycdn.com,Helium10
-  - DOMAIN-SUFFIX,wistia.com,Helium10
-  - DOMAIN-SUFFIX,cloudfront.net,Helium10
-  - DOMAIN-SUFFIX,rum-ingress-coralogix.com,Helium10
+  # WhatsApp and WhatsApp Business
+  - DOMAIN,graph.facebook.com
+  - DOMAIN-SUFFIX,whatsapp.com
+  - DOMAIN-SUFFIX,whatsapp.net
+  - DOMAIN-SUFFIX,whatsapp.biz
+  - DOMAIN-SUFFIX,whatsappbusiness.biz
+  - DOMAIN-SUFFIX,whatsappbrand.com
+  - DOMAIN-SUFFIX,wa.me
+  - DOMAIN-SUFFIX,fbcdn.net
+  - DOMAIN-SUFFIX,fbsbx.com
+  - DOMAIN-SUFFIX,facebook.com
+  - DOMAIN-SUFFIX,facebook.net
+  - DOMAIN-SUFFIX,fb.me
+  - DOMAIN-SUFFIX,meta.com
+  - DOMAIN-KEYWORD,whatsapp
+  - IP-ASN,11917,no-resolve
+  - IP-ASN,32934,no-resolve
