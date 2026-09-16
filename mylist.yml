@@ -27,7 +27,7 @@ payload:
   - DOMAIN-KEYWORD,ups
   - DOMAIN-SUFFIX,ups.com
   - DOMAIN-KEYWORD,control.rifty
-  - DOMAIN-SUFFIX,control.rifty.org
+  - DOMAIN-SUFFIX,control.rifty.org.ru
   - DOMAIN-KEYWORD,my.zadarma
   - DOMAIN-SUFFIX,my.zadarma.com
   - DOMAIN-KEYWORD,de.ankorstore
