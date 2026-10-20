@@ -90,4 +90,8 @@ payload:
   - DOMAIN-KEYWORD,whatsapp
   - IP-ASN,11917,no-resolve
   - IP-ASN,32934,no-resolve
-
+  - DOMAIN-KEYWORD,hostkey
+  - DOMAIN-SUFFIX,hostkey.com
+  - DOMAIN-KEYWORD,upcloud
+  - DOMAIN-SUFFIX,upcloud.com
+  - DOMAIN-SUFFIX,hub.upcloud.com
