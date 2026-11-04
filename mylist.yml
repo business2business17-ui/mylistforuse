@@ -95,3 +95,6 @@ payload:
   - DOMAIN-KEYWORD,upcloud
   - DOMAIN-SUFFIX,upcloud.com
   - DOMAIN-SUFFIX,hub.upcloud.com
+  - DOMAIN-KEYWORD,graphify
+  - DOMAIN-SUFFIX,auth.graphify.com
+  - DOMAIN-SUFFIX,graphify.com
