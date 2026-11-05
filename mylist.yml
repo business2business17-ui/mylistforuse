@@ -98,3 +98,5 @@ payload:
   - DOMAIN-KEYWORD,graphify
   - DOMAIN-SUFFIX,auth.graphify.com
   - DOMAIN-SUFFIX,graphify.com
+  - DOMAIN-KEYWORD,z.ai
+  - DOMAIN-SUFFIX,z.ai
