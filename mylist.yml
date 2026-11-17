@@ -102,3 +102,5 @@ payload:
   - DOMAIN-SUFFIX,z.ai
   - DOMAIN-KEYWORD,cloud.comfy
   - DOMAIN-SUFFIX,cloud.comfy.org
+  - DOMAIN-KEYWORD,advertising.amazon
+  - DOMAIN-SUFFIX,advertising.amazon.com
